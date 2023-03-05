@@ -18,7 +18,7 @@ Combined set of Data Analytical reports or dashboards.
 
 ### What is Required?
 - Downloading Csv's and uploading on Google Spreadsheets.
-- Data Cleaning in Spreadsheet and transoforming data as per requirement.
+- Data Cleaning in Spreadsheet and transforming data as per requirement.
 - Loading data into Google Data Studio.
 - Using different chart types like Bar chart, Line Chart, Donut / Pie chart, Treemap and measuring KPI's.
 - Visualizing data with help of different colors and icons.
