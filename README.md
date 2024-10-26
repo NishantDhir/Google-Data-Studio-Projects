@@ -15,10 +15,11 @@ Combined set of Data Analytical reports or dashboards.
 2. FMCG.
 3. Stock Market.
 4. Cricket Analysis.
+5. Superstore Sales.
 
 ### What is Required?
 - Downloading Csv's and uploading on Google Spreadsheets.
-- Data Cleaning in Spreadsheet and transforming data as per requirement.
+- Data Cleaning in Google Spreadsheet and transforming data as per requirement.
 - Loading data into Google Data Studio.
-- Using different chart types like Bar chart, Line Chart, Donut / Pie chart, Treemap and measuring KPI's.
+- Using different chart types like Bar chart, Line Chart, Donut / Pie chart, Treemap, Sparkline, Calculated field, and measuring KPI's.
 - Visualizing data with help of different colors and icons.
